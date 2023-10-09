@@ -1,0 +1,15 @@
+.circle{
+    background-color: white;
+    padding: 5px;
+    text-align: center;
+    border: solid gray 2px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: -70%;
+    left:77%;
+}
+.nomargin{
+    margin-top: -20%;
+}
